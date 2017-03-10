@@ -497,21 +497,6 @@ var gallery = [
 ],
 
 
-['novas', 'DSG VID TYP LGO','',
- 2,
-	[
-	"Novastrike Trefoil",//name
-	"Adobe Photoshop / Adobe Illustrator",//tool
-	"Novastrike",//client
-	"Branding",//project
-	"The fancy and shiny version of Novastrike Media's Visual ID, the term 'Nova' comes from 'Supernova' an exploding star collapsing itself on its own gravity, the roundel tries to keep this sensation of pulsatin waves from a core, that also resembles a speaker. And the trefoil at the same time it is radial, resembling an explosion, it also represents the three founders, as well as a clear reference to the Triforce from the Legend of Zelda series. ",//details
-	"2013",//year
-	"",//assistant
-	],
-
-],
-
-
 //['Nssite', 'WEB DSG',''],
 
 
@@ -611,53 +596,6 @@ var gallery = [
 ],
 
 
-['ameplant',
- 'DSG TCI PRN CRD',
-'',
-3,
-	[
-	"Apartment Floor Manual Digital Render",//name
-	"Adobe Photoshop / Xara",//tool
-	"AME Archimedia CGI",//client
-	"Confidential",//project
-	"Works I used to do while working at Archimedia, floor models were taken from CAD, cleaned up, exported to Photoshop, and then received some pretty neat painting.",//details
-	"2012",//year
-	"",//assistant
-	],
-],
-
-
-
-['primelog',
- 'DSG VID LGO',
-'',
-3,
-	[
-	"Prime Wash #3",//name
-	"Adobe Photoshop / Adobe Illustrator",//tool
-	"Prime Wash Lavanderias.",//client
-	"Rebranding",//project
-	"Rebranding project of a Rio-based laundry. The client wanted a clear and objective resemblance with a washing machine on its logo, as well as that specific color was the one ordered, the intention was to use only the round door as logotype, but it ended up as a full literal washing machine.",//details
-	"2013",//year
-	"",//assistant
-	],
-],
-
-
-['reoli',
- 'DSG VID LGO',
-'',
-2,
-	[
-	"REOLI",//name
-	"Adobe Photoshop / Adobe Illustrator",//tool
-	"REOLI Transportes e Entulhos LTD.",//client
-	"Branding",//project
-	"Visual Identity for a Porto Alegre-based transports and construction remains carrier company. Black, Yellow and Orange pallete did a good match for the context. A bold and slant with a discrete pseudoserif typeface so it is not bypassed as just text. And the container as a pretty straightforward indication of what the business is, once the target-clients of this business needs to have a clear reference to its specialty.",//details
-	"2015",//year
-	"",//assistant
-	],
-],
 
 
 //['REOsite', 'WEB DSG',''],
