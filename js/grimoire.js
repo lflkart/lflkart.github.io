@@ -498,7 +498,7 @@ var gallery = [
 
 
 ['novas', 'DSG VID TYP LGO','',
- 4,
+ 2,
 	[
 	"Novastrike Trefoil",//name
 	"Adobe Photoshop / Adobe Illustrator",//tool
@@ -631,7 +631,7 @@ var gallery = [
 ['primelog',
  'DSG VID LGO',
 '',
-4,
+3,
 	[
 	"Prime Wash #3",//name
 	"Adobe Photoshop / Adobe Illustrator",//tool
@@ -647,7 +647,7 @@ var gallery = [
 ['reoli',
  'DSG VID LGO',
 '',
-5,
+2,
 	[
 	"REOLI",//name
 	"Adobe Photoshop / Adobe Illustrator",//tool
