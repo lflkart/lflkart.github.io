@@ -481,20 +481,7 @@ var gallery = [
 ],
 
 
-['nipes',
- 'TCI ILS DSG ELY PRN ITF DGA ADR',
-'',
- 4,
-	[
-	"Card Symbols",//name
-	"Adobe Photoshop",//tool
-	"Raphael Montero",//client
-	"Card Game",//project
-	"Demonstration of symbols used in cards.",//details
-	"2015",//year
-	"",//assistant
-	],
-],
+
 
 
 //['Nssite', 'WEB DSG',''],
