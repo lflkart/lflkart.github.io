@@ -93,7 +93,9 @@ svg{
 	text-decoration: none;
 	height: 24px;
 	margin-bottom: -3px;
-
+}
+svg:hover{
+	fill:#C75544;
 }
 a{
 		border-bottom-color: transparent !important;
