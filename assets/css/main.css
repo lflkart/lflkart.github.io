@@ -88,7 +88,16 @@
 		background-color: #101010;
 		overflow: hidden;
 	}
+svg{
+	border: none !important;
+	text-decoration: none;
+	height: 24px;
+	margin-bottom: -3px;
 
+}
+a{
+		border-bottom-color: transparent !important;
+}
 /* Type */
 
 	html {
